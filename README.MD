@@ -1,0 +1,1 @@
+I was only able to do the backend part of this project due to time constraints. frontend is only the react boilerplate code.
